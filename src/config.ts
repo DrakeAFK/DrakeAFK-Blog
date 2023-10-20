@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "DrakeAFK",
   desc: "DrakeAFK's blog about all things that interest him.",
   title: "DrakeAFK - Blog",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "hackerIMAGE.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
