@@ -127,6 +127,34 @@ I use three monitors that my gaming desktop is always connected to. However, I a
 
 ### Accessories
 
+- Tablet Stand
+
+- USB Hub
+
+- Whiteboards
+
+- Laptop Stand
+
+- Monitor Arm
+
+### Furniture 
+
+- Desks
+
+- Chairs
+
+### Applications
+
+- Obsidian
+
+- Todoist
+
+- Notion
+
+- Google Keep
+
+- Google Calendar
+
 ## What I Have Used
 
 (null)
