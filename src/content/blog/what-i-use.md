@@ -91,11 +91,6 @@ I use three monitors that my gaming desktop is always connected to. However, I a
 - Logitech C922 Pro Stream
   - Used for video calls and to make recordings where I want to show myself. It's 1080p but only 30fps, you need to go down to 720p to get 60fps. Controlling the picture is fairly easy with different Logitech software. I would prefer it to be able to swivel on the x axis, as its only adjustment is up and down. Other than that, I have no complaints. I have never used the built-in microphone so I cannot comment on the quality of it.
 
-#### Printer
-
-- Canon PIXMA TR4522
-  - Pretty simple printer, scanner, and copier. I use it in my home office and it works well for my needs. Connecting to it wirelessly is a breeze and I have had no issues with it. Ink is reasonably priced compared to other printers.
-
 #### Controllers
 
 - PlayStation 5 DualSense Wireless Controller
