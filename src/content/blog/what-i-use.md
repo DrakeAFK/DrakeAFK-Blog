@@ -7,7 +7,6 @@ featured: true
 draft: false
 tags:
   - DrakeAFK
-  - Use
   - Tech
   - Accessories
 ogImage: ""
@@ -28,7 +27,7 @@ I have no affiliate links or anything like that, so if I include a link to a pro
 #### Desktop
 
 - Custom Built Gaming PC
-  - This is my gaming rig. I have an AMD Ryzen 7 7800X3D CPU, 64GB DDR5 RAM, NVIDIA RTX 3060 TI, a 1TB NVMe SSD, a 4TB NVMe SSD, and a 1TB SATA SSD. Windows 11 Pro is the primary OS installed on this machine since it is primarily used for gaming (yes I know you can game on Linux but I'm not trying to jump through unnecessary hurdles when I just want to get in a raid on Tarkov). However, I utilize the 1TB SATA SSD as a dual boot for Linux (I use Arch, btw). It is an absolute beast for gaming and works great for resource intensive tasks like video and photo editing as well as working with programs like Blender. I'm currently waiting for a new GPU to arrive (NVIDIA RTX 4080).
+  - This is my gaming rig. I have an AMD Ryzen 7 5800X3D CPU, 32GB DDR4 RAM, NVIDIA RTX 3060 TI (12GB VRAM Version), a 1TB NVMe SSD, a 1TB SATA SSD, and a 500GB SATA SSD. Windows 11 Pro is the primary OS installed on this machine since it is primarily used for gaming (yes I know you can game on Linux but I'm not trying to jump through unnecessary hurdles when I just want to get in a raid on Tarkov). However, I utilize the 500GB SATA SSD as a dual boot for Linux (I use Arch, btw). It is an absolute beast for gaming.
 
 #### Laptop
 
@@ -44,7 +43,7 @@ I have no affiliate links or anything like that, so if I include a link to a pro
 ### <u>Operating System</u>
 
 - Micro$oft Windows 11 Pro
-  - I use Micro$oft Windows 11 Pro on my gaming desktop and gaming laptop.
+  - I use Microsoft Windows 11 Pro on my gaming desktop and gaming laptop.
 - Arch Linux
   - I reserve the 1TB SATA SSD on my gaming desktop as a dual boot for Linux (I use Arch, btw). I use Arch on my gaming desktop for everything other than gaming and editing work.
 - Pop!_OS
@@ -137,7 +136,7 @@ I use three monitors that my gaming desktop is always connected to. However, I a
 
 - Monitor Arm
 
-### Furniture 
+### Furniture
 
 - Desks
 
