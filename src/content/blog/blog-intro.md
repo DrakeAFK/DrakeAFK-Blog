@@ -3,7 +3,7 @@ author: DrakeAFK
 pubDatetime: 2023-10-18T12:00:00Z
 title: Welcome to My Blog
 postSlug: welcome
-featured: true
+featured: false
 draft: false
 tags:
   - DrakeAFK
@@ -28,7 +28,7 @@ I first got into programming at a fairly early age, pretty much by accident. I w
 
 ### First Real Job
 
-I've been taking programming seriously for around half a decade now. Sure, I've been familiar with various aspects of coding in my teen years, taken a few college courses in computer science, and played around with different technologies, but I didn't start taking it serious until I got to the end of my college years. Around that time, we'll say five years ago, I decided that I wanted to find a way to make a career out of it. During college I worked as an IT support intern for a small company. I was basically just the "IT guy" someone would call when their computer wouldn't connect to the internet. I enjoyed that type of role, and still do, but I wanted to transition away from being the "IT guy". I started building different little projects to show on my GitHub and portfolio and spent hours and hours sharpening my skills. Shortly after finishing college, I was contracted as a junior frontend developer (a role where a junior was actually expected to produce junior level work and not know everything out of the gate). It was  great, there wasn't a TON expected of me in terms of delivering groundbreaking products or mastering X, Y, and Z in two days. It allowed me to learn a ton, on my own and from others, and gain invaluable real-world experience as a developer. I ended up working that same role for a few years, taking on more and more responsibility. While working with that company, I started picking up gigs building small, simple websites for local businesses.
+I've been taking programming seriously for around half a decade now. Sure, I've been familiar with various aspects of coding in my teen years, taken a few college courses in computer science, and played around with different technologies, but I didn't start taking it serious until I got to the end of my college years. Around that time, we'll say five years ago, I decided that I wanted to find a way to make a career out of it. During college I worked as an IT support intern for a small company. I was basically just the "IT guy" someone would call when their computer wouldn't connect to the internet. I enjoyed that type of role, and still do, but I wanted to transition away from being the "IT guy". I started building different little projects to show on my GitHub and portfolio and spent hours and hours sharpening my skills. Shortly after finishing college, I was contracted as a junior frontend developer (a role where a junior was actually expected to produce junior level work and not know everything out of the gate). It was great, there wasn't a TON expected of me in terms of delivering groundbreaking products or mastering X, Y, and Z in two days. It allowed me to learn a ton, on my own and from others, and gain invaluable real-world experience as a developer. I ended up working that same role for a few years, taking on more and more responsibility. While working with that company, I started picking up gigs building small, simple websites for local businesses.
 
 ### Freelancing
 
@@ -46,12 +46,12 @@ At the end of my contract as an IT consultant (only a few months ago), I relocat
 
 ### Why I Made This Blog
 
-*Why the fuck would someone start a blog in 2023, that ship has sailed.*  
+_Why the fuck would someone start a blog in 2023, that ship has sailed._  
 I haven't started this blog for anyone other than myself. If someone reads a post and finds it useful or interesting, that's cool. But I really made it for myself. If I learn something new, and write a post about it, it will just help me retain the knowledge or learn more about it (I think of it like the rubber duck method of debugging - reading code out loud - this is my version of telling someone about a thing I learned and learning more about it in the process).
 
 ### What to Expect
 
-The majority, if not all, of the posts on this blog will be about tech in some form or fashion. Could be something about a project that I'm working on or learning, or some kind of change to my tech setup (hello new gaming PC??), or even something I've added that improves my workflow (I really want that standing desk). But if there's something non-tech that I find interesting and want to write about, that may appear on here as well. 
+The majority, if not all, of the posts on this blog will be about tech in some form or fashion. Could be something about a project that I'm working on or learning, or some kind of change to my tech setup (hello new gaming PC??), or even something I've added that improves my workflow (I really want that standing desk). But if there's something non-tech that I find interesting and want to write about, that may appear on here as well.
 
 ## Conclusion
 
