@@ -127,6 +127,11 @@ I have no affiliate links or anything like that, so if I include a link to a pro
 - iPad 10.2 inch (9th Gen)
   - Yeah yeah I just said I don't like Apple ecosystem etc etc. But hear me out. I don't use my iPad for any kind of productivity work. It sits on my desk while I'm working or ventures to bed with me so I can watch random YouTube videos or Twitch streams. That's the only thing I've every used this for. And for that, this iPad is all I could need. I won't dive into this iPad much because everyone knows what it is and what it does, and I don't use it for anything that would allow me to comment on its performance or features. Again, I use this for background noise and watching videos when I don't want to use my computer's resources or carry a laptop to bed. I may eventually try the Pixel tablet, but it would be used for the same purpose so it would be rather redundant.
 
+#### Smartwatch
+
+- Apple Watch SE 2nd Gen (44mm)
+  - I've had this for a few years now and it has been great. Since I use a Pixel, I don't get the full feature set that I would if I used an iPhone - But most of the features I am missing out on are not things I want. I do not want calls and texts and similar notifications that I get on my phone to go to my watch. I find that to be a bit much, and I don't like the feeling of being that connected. I do have it paired with the iPhone 13 Pro Max that I keep, so I can use all of the fitness tracking and other features that I do like (like being able to tell Siri to set a timer). I could use a Pixel watch or a Galaxy watch, but I don't see the need to replace this one - and the brief experience I've had with a Galaxy Watch 4 was not great. I may eventually try a Pixel watch, but I don't have the urge to replace this one anytime soon.
+
 ### Accessories
 
 - Monitor Arm
@@ -142,7 +147,9 @@ I have no affiliate links or anything like that, so if I include a link to a pro
   - Anker 4-Port USB 3.0 Hub
     - I have a standing-desk - so I use this to connect my dongles and other peripherals that need to be on my desk and connected to my desktop. It makes it extremely easy to deal with potential cable length issues when adjusting the height of my desk (I don't keep my desktop on my desk, it is on a shelf next to my desk).
 
-- Whiteboards - I have multiple, different sized whiteboards that I use for planning, brainstorming a coding project or problem, or just to use in place of post-it notes.
+- Whiteboards
+
+  - I have multiple, different sized whiteboards that I use for planning, brainstorming a coding project or problem, or just to use in place of post-it notes.
 
 - Laptop Stand
   - Allsop Metal Art Adjustable Laptop Stand
@@ -160,21 +167,5 @@ I have no affiliate links or anything like that, so if I include a link to a pro
 - Chairs
   - Large Exercise Ball
     - There's a lot of debate whether it is "good" to sit on an exercise ball while working at your desk. I find it to be quite enjoyable. I feel like it actually pushes me to sit straighter and keep my core engaged. I find it is a good mix with the standing desk, as I feel it keeps me in more of an active state while working.
-  - SecretLab Titan Evo
-    -
-
-### Applications
-
-- Obsidian
-
-- Todoist
-
-- Notion
-
-- Google Keep
-
-- Google Calendar
-
-## What I Have Used
-
-(null)
+  - SecretLab Titan Evo (Black SoftWeave Plus Fabric)
+    - I really enjoy this chair. I've had it since 2022 and it has held up very well. It gets used every time I am playing a game and I find it very comfortable. It may not be for everyone, as it is pretty firm - but in my experience, desk chairs with extremely plush padding seem to wear down over time and become very uncomfortable.
